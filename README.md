@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-Simple classical tic-tac-toe game to learn basics of Java syntax 
+Very simple classical tic-tac-toe game to learn basics of Java syntax 
 and graphic interface with Swing library.
 
 - Graphic interface
